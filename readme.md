@@ -5,7 +5,7 @@
 
 ## 截图
 
-![](http://ww2.sinaimg.cn/large/6d86d850gw1enxu2lfpq9j20dc0oa0t3.jpg)
+![](http://ww3.sinaimg.cn/large/6d86d850gw1enxudteorhj20ai0i074j.jpg)
 
 ## 使用
 
