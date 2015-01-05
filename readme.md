@@ -45,6 +45,19 @@
 
 ```
 
+## 实例代码
+
+```
+$ git clone https://github.com/summerblue/baidu-translate-ios-sdk.git
+$ cd baidu-translate-ios-sdk/
+$ pod install
+```
+
+pod 安装成功后
+```
+$ open BaiduTranslateExample.xcworkspace
+```
+
 ## License
 
 Under the MIT license. See the LICENSE file for more info.
